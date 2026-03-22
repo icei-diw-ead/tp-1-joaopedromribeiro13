@@ -3,12 +3,12 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: João Pedro Mendanha Ribeiro
+Matricula: 877093
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+<img src="images\image.png" alt="" width="50%">
 
 
 
